@@ -120,11 +120,3 @@ def sommeTemps(temps1,temps2):
 
     return secondeEnTemps(sommeEnSeconde)
 afficheTemps(sommeTemps((2,3,4,25),(5,22,57,1)))
-
-#Exercice 5:
-
-def proportionTemps(temps,proportion):
-    
-afficheTemps(proportionTemps((2,0,36,0),0.2))
-        
-    
